@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Personal Finance Manager</string>
+    <string name="textdesc1">Get an overview of how you are perfoming and motivate your self to achieve even more.</string>
+    <string name="textdesc2">Track your transaction easily,with categories and financial report</string>
+    <string name="textdesc3">Setup your budget for each category so you in control.Track your categories you spend most money on </string>
+
+</resources>
